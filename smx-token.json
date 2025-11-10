@@ -1,0 +1,8 @@
+{
+  "name": "SmaxX Token",
+  "symbol": "SMX",
+  "address": "0xYourDeployedContractAddress",
+  "chainId": 5,
+  "decimals": 18,
+  "logoURI": "https://yourdomain.com/smx-logo.png"
+}
