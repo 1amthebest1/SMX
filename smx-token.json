@@ -2,7 +2,7 @@
   "name": "SmaxX Token",
   "symbol": "SMX",
   "address": "0x57420f769aafe8dd4b60d96a0e0056aca5cff61d",
-  "chainId": 5,
+  "chainId": 11155111,
   "decimals": 18,
   "logoURI": "https://1amthebest1.github.io/SMX/logo.png"
 }
